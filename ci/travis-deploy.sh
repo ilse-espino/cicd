@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # login DockerHub
 docker login --username $DOCKER_HUB_USER --password $DOCKER_HUB_PASS
 
